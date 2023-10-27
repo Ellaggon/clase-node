@@ -6,7 +6,9 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon app.js",
-    "start": "node app.js"
+    "start": "node app.js",
+    "dev-with-file": "nodemon app-with-file.js",
+    "start-with-file": "node app-with-file.js"
   },
   "keywords": [],
   "author": "Ellioth Aguirre",

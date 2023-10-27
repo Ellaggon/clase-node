@@ -1,0 +1,3 @@
+Tarea nro1 |false
+Tarea nro2 |false
+tarea 2|true
